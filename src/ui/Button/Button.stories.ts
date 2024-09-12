@@ -20,8 +20,9 @@ export const Primary: Story = {
   },
 };
 
-//export const Secondary: Story = {
-  //args: {
-   // label: 'Here!'
- // },
-//};
+export const Disabled: Story = {
+  args: {
+    label: 'Here!',
+    disabled: true,
+  },
+};
