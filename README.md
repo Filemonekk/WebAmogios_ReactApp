@@ -19,12 +19,12 @@ Zakres kursu:
    Skopiuj repozytorium do swojego lokalnego środowiska:
 
    ```bash
-   git clone https://github.com/Filemonekk/WebAmogios_ReactApp.git
+   git clone https://github.com/Filemonekk/WebAmogios_ReactApp.git```
 
    Zainstaluj wymagane paczki:
 
    ```bash
-   npm install
+   npm install```
 
 3. **Uruchomienie projektu**:
 
