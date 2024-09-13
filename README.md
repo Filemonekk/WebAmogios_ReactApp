@@ -1,3 +1,46 @@
+# Szkoła Reacta - WebAmigos
+
+## Opis kursu
+
+**Szkoła Reacta** to kompleksowy kurs programowania w React, przygotowany przez WebAmigos. 
+
+Zakres kursu:
+
+- Podstawy Reacta
+- Tworzenie komponentów funkcyjnych i klasowych
+- Zarządzanie stanem aplikacji z `useState` i `useReducer`
+- Obsługiwanie efektów ubocznych za pomocą `useEffect`
+- Nawigacja i zarządzanie routami w aplikacji z `react-router`
+- Optymalizacja aplikacji oraz testowanie komponentów
+
+
+2. **Instalacja**:
+
+   Skopiuj repozytorium do swojego lokalnego środowiska:
+
+   ```bash
+   git clone https://github.com/Filemonekk/WebAmogios_ReactApp.git
+
+   Zainstaluj wymagane paczki:
+
+   ```bash
+   npm install
+
+3. **Uruchomienie projektu**:
+
+   Aby uruchomić lokalny serwer deweloperski, wpisz:
+
+   ```bash
+   npm start
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
