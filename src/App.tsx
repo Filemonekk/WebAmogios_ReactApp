@@ -2,7 +2,7 @@ import "./App.css";
 import { Button, Text } from "./ui";
 import { Generator } from "./components/Generator";
 import { Counter } from "./components/Counter";
-import { RegistrationFormState } from "./components/RegistrationForm";
+import { RegistrationFormState, RegistrationFormRefs } from "./components/RegistrationForm";
 
 function App() {
   return (
@@ -11,7 +11,9 @@ function App() {
       <Generator />
       <Button label="Click me!" onClick={() => alert('Hey!')}></Button>
       <Counter />
-      <RegistrationFormState/>
+      <RegistrationFormState />
+      <RegistrationFormRefs/>
+  
     </>
   );
 }
