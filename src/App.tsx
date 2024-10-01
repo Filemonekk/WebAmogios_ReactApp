@@ -1,14 +1,14 @@
 import "./App.css";
 
 import {
-  RegistrationFormCustomInput
-} from "./components/RegistrationForm";
+  RegistrationFormRefsHookForm
+} from "./components/RegistrationForm/RegistrationFormRefsHookForm";
 
 function App() {
   return (
     <>
       
-      <RegistrationFormCustomInput />
+      <RegistrationFormRefsHookForm />
     </>
   );
 }
